@@ -27,6 +27,7 @@ const PreviewComponent = ({ data, onSave }) => {
   } = data;
 
   return (
+    
     <div className="containerr">
         <div className='aa'>
     <div className="header">
@@ -182,7 +183,7 @@ const PreviewComponent = ({ data, onSave }) => {
       </div>
     )}
 </div>
-    <button onClick={onSave}>Save Resume</button>
+    <button className='btn btn-success mt-4' onClick={onSave}>Save Resume</button>
   </div>
   );
 };
