@@ -14,7 +14,7 @@ const Home = () => {
       <div>
         <div className="motto">
         <h2 className="mottomain">Create a standout resume effortlessly!</h2>
-          <h4> Join the top 2% with our expert-designed templates that meet employer expectations. Quick, easy, and free to use—start building your professional future today!</h4>
+          <h4> Make best Resumes with our expert-designed templates that meet employer expectations. Quick, easy, and free to use. Start building your professional future today!</h4>
 
         </div>
        
